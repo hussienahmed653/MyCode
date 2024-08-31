@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3_Layer_architecture", "3_Layer_architecture.csproj", "{84B91E3C-DC2D-49A7-8884-BFB432994BFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{84B91E3C-DC2D-49A7-8884-BFB432994BFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{84B91E3C-DC2D-49A7-8884-BFB432994BFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{84B91E3C-DC2D-49A7-8884-BFB432994BFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{84B91E3C-DC2D-49A7-8884-BFB432994BFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {588BA888-B2B0-4469-AA3E-F738A668EA63}
+	EndGlobalSection
+EndGlobal

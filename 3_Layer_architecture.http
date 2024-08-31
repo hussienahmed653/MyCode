@@ -1,0 +1,6 @@
+@_3_Layer_architecture_HostAddress = http://localhost:5229
+
+GET {{_3_Layer_architecture_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
