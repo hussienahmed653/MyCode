@@ -2,13 +2,16 @@
 {
     public class Employees
     {
-        public int ID { get; set; }
-        public string Fname { get; set; }
-        public string Lname { get; set; }
-        public string Email { get; set; }
-        public int Address { get; set; }
-        public string address_name { get; set; }
-        public int Dept_id { get; set; }
-        public string Dept_name { get; set; }
+        public int? ID { get; set; }
+        public string? Fname { get; set; }
+        public string? Lname { get; set; }
+        public string? Email { get; set; }
+        //public int Address { get; set; }
+        public string? address_name { get; set; }
+        public int? Salary_id { get; set; }
+        public int? Dept_id { get; set; }
+        public string? Dept_name { get; set; }
+        public decimal? Salary { get; set; }
+        public string? Reason { get; set; }
     }
 }

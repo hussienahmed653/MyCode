@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\MyCode\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|c:\\users\\user\\source\\repos\\mycode\\bll\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|solutionrelative:bll\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|c:\\users\\user\\source\\repos\\mycode\\pll\\updatecontroller\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|solutionrelative:pll\\updatecontroller\\updatecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|c:\\users\\user\\source\\repos\\mycode\\pll\\insertcontroller\\insertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|solutionrelative:pll\\insertcontroller\\insertcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|c:\\users\\user\\source\\repos\\mycode\\bll\\insertvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|solutionrelative:bll\\insertvalues.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|c:\\users\\user\\source\\repos\\mycode\\bll\\deleteemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|solutionrelative:bll\\deleteemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|c:\\users\\user\\source\\repos\\mycode\\dal\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|solutionrelative:dal\\models\\employees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|c:\\users\\user\\source\\repos\\mycode\\bll\\implentemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|solutionrelative:bll\\implentemp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|c:\\users\\user\\source\\repos\\mycode\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|c:\\users\\user\\source\\repos\\mycode\\pll\\deletecontroller\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84B91E3C-DC2D-49A7-8884-BFB432994BFB}|3_Layer_architecture.csproj|solutionrelative:pll\\deletecontroller\\deletecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 529,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UpdateController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyCode\\PLL\\UpdateController\\UpdateController.cs",
+              "RelativeDocumentMoniker": "PLL\\UpdateController\\UpdateController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyCode\\PLL\\UpdateController\\UpdateController.cs",
+              "RelativeToolTip": "PLL\\UpdateController\\UpdateController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:19:13.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InsertController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyCode\\PLL\\InsertController\\InsertController.cs",
+              "RelativeDocumentMoniker": "PLL\\InsertController\\InsertController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyCode\\PLL\\InsertController\\InsertController.cs",
+              "RelativeToolTip": "PLL\\InsertController\\InsertController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwA0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:17:58.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Update.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyCode\\BLL\\Update.cs",
+              "RelativeDocumentMoniker": "BLL\\Update.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyCode\\BLL\\Update.cs*",
+              "RelativeToolTip": "BLL\\Update.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwA8AAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:12:34.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InsertValues.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyCode\\BLL\\InsertValues.cs",
+              "RelativeDocumentMoniker": "BLL\\InsertValues.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyCode\\BLL\\InsertValues.cs",
+              "RelativeToolTip": "BLL\\InsertValues.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:12:19.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DeleteEmp.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyCode\\BLL\\DeleteEmp.cs",
+              "RelativeDocumentMoniker": "BLL\\DeleteEmp.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyCode\\BLL\\DeleteEmp.cs",
+              "RelativeToolTip": "BLL\\DeleteEmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:12:03.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyCode\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyCode\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T11:05:48.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ImplentEmp.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyCode\\BLL\\ImplentEmp.cs",
+              "RelativeDocumentMoniker": "BLL\\ImplentEmp.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyCode\\BLL\\ImplentEmp.cs",
+              "RelativeToolTip": "BLL\\ImplentEmp.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T11:03:08.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employees.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyCode\\DAL\\Models\\Employees.cs",
+              "RelativeDocumentMoniker": "DAL\\Models\\Employees.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyCode\\DAL\\Models\\Employees.cs",
+              "RelativeToolTip": "DAL\\Models\\Employees.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:59:00.271Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DeleteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\MyCode\\PLL\\DeleteController\\DeleteController.cs",
+              "RelativeDocumentMoniker": "PLL\\DeleteController\\DeleteController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\MyCode\\PLL\\DeleteController\\DeleteController.cs",
+              "RelativeToolTip": "PLL\\DeleteController\\DeleteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T10:58:03.249Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

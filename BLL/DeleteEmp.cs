@@ -9,7 +9,7 @@ namespace _3_Layer_architecture.BLL
         public void deleteemp(int id)
         {
             sqlconnection();
-            SqlCommand cmd = new SqlCommand("DELETEEMP", con);
+            SqlCommand cmd = new SqlCommand("DELETEDATA", con);
             cmd.CommandType = CommandType.StoredProcedure;
             cmd.Parameters.AddWithValue("id", id);
             cmd.ExecuteNonQuery();

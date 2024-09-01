@@ -9,10 +9,10 @@ namespace _3_Layer_architecture.PLL.InsertController
     public class InsertController : ControllerBase
     {
         [HttpPut]
-        public IActionResult Insert(string fname, string lname, string email, int address, int dept_id)
+        public IActionResult Insert(string fname, string lname, string email, string address,int salary_id, int dept_id)
         {
             InsertValues insertValues = new InsertValues();
-            insertValues.Insertvalues(fname, lname, email, address, dept_id);
+            insertValues.Insertvalues(fname, lname, email, address, salary_id, dept_id);
             return Ok();
         }
     }

@@ -9,10 +9,10 @@ namespace _3_Layer_architecture.PLL.UpdateController
     public class UpdateController : ControllerBase
     {
         [HttpPost]
-        public IActionResult Updateemp(int id, string? fname, string? lname, string? email, int? address, int? dept_id)
+        public IActionResult Updateemp(int id, string? fname, string? lname, string? email, string? address,int? salary_id, int? dept_id)
         {
             Update update = new Update();
-            update.UPDATE(id,fname,lname,email,address,dept_id);
+            update.UPDATE(id,fname,lname,email,address,salary_id, dept_id);
             return Ok();
         }
     }

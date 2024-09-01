@@ -10,17 +10,17 @@ namespace _3_Layer_architecture.BLL
         SqlCommand cmd;
         List<Employees> employees = [];
 
-        public List<Employees> GetEmployees(int? id = null)
+        public List<Employees> GetEmployees(int? id )
         {
             sqlconnection();
             if(id.HasValue)
             {
-                cmd = new SqlCommand("GETDTABYID", con);
+                cmd = new SqlCommand("HrGetByID", con);
                 cmd.Parameters.AddWithValue("id", id);
             }
             else
             {
-                cmd = new SqlCommand("getdata", con);
+                cmd = new SqlCommand("hrget", con);
             }
             cmd.CommandType = CommandType.StoredProcedure;
             SqlDataReader reader = cmd.ExecuteReader();
@@ -30,14 +30,16 @@ namespace _3_Layer_architecture.BLL
                 {
                     employees.Add(new Employees()
                     {
-                        ID = reader.GetInt32(0),
-                        Fname = reader.GetString(1),
-                        Lname = reader.GetString(2),
-                        Email = reader.GetString(3),
-                        Address = reader.GetInt32(4),
-                        address_name = reader.GetString(5),
-                        Dept_id = reader.GetInt32(6),
-                        Dept_name = reader.GetString(7),
+                        ID = reader.IsDBNull(0) ? null : reader.GetInt32(0),
+                        Fname = reader.IsDBNull(1) ? null : reader.GetString(1),
+                        Lname = reader.IsDBNull(2) ? null : reader.GetString(2),
+                        Email = reader.IsDBNull(3) ? null : reader.GetString(3),
+                        address_name = reader.IsDBNull(4) ? null : reader.GetString(4),
+                        Salary_id = reader.IsDBNull(5) ? null : reader.GetInt32(5),
+                        Dept_id = reader.IsDBNull(6) ? null : reader.GetInt32(6),
+                        Dept_name = reader.IsDBNull(7) ? null : reader.GetString(7),
+                        Salary = reader.IsDBNull(8) ? null : reader.GetDecimal(8),
+                        Reason = reader.IsDBNull(9) ? null : reader.GetString(9),
                     });
                 }
                 con.Close();
